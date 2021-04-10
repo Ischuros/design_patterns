@@ -1,0 +1,4 @@
+DEBUG main behavioral.visitor.XMLExporter - XML Export : title="My awesome report A" date="Localized(SHORT,SHORT)" author="Lucas"
+DEBUG main behavioral.visitor.XMLExporter - XML Export : title="Awful crash" date="Localized(SHORT,SHORT)" person in charge of the incident="Suzanne"
+DEBUG main behavioral.visitor.XMLExporter - XML Export : title="My awesome report A" date="09/04/2021 12:50" author="Lucas"
+DEBUG main behavioral.visitor.XMLExporter - XML Export : title="Awful crash" date="08/04/2021 12:50" person in charge of the incident="Suzanne"
